@@ -1,1 +1,3 @@
-# nice-weather
+# RNC Project
+
+Nice Weather App
